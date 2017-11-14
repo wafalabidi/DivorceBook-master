@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DivorceBook</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="mail">Address Mail</string>
+    <string name="membership">Not a member ? </string>
+    <string name="title_activity_main_acitvity">MainAcitvity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Profil</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Name">Notifications</string>
+    <string name="address_mail">Address Mail</string>
+    <string name="e_mail">E-Mail</string>
+    <string-array name="Eyes">
+        <item>Blue</item>
+        <item>Vert</item>
+        <item>Marron</item>
+        <item>Jaune</item>
+    </string-array>
+    <string name="facebook_app_id">128324724606572</string>
+    <string name="fb_login_protocol_scheme">fb128324724606572</string>
+
+</resources>

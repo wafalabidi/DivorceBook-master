@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "432269956782",
+    "firebase_url": "https://divorce-4c9ae.firebaseio.com",
+    "project_id": "divorce-4c9ae",
+    "storage_bucket": "divorce-4c9ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432269956782:android:43dd9d97467848ab",
+        "android_client_info": {
+          "package_name": "sahli.sofien.miniprojetandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432269956782-5tmaia9p1qk8738t0ehuigt0v9ckols2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIny3bQgkZNHVzqbHQ6HvB1UN_cqQMTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
